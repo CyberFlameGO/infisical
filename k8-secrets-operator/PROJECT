@@ -1,0 +1,6 @@
+domain: infisical.com
+layout:
+- go.kubebuilder.io/v3
+projectName: k8-secrets-operator
+repo: github.com/Infisical/infisical/k8-secrets-operator
+version: "3"
